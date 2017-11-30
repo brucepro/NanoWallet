@@ -43,3 +43,6 @@ patch:
         patched: '2017-10-26T22:36:25.692Z'
     - gulp-notify > node-notifier > cli-usage > marked:
         patched: '2017-10-26T22:36:25.692Z'
+  'npm:moment:20170905':
+    - angular-chart.js > chart.js > moment:
+        patched: '2017-11-30T22:37:27.091Z'
