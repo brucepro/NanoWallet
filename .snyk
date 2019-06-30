@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.8.0
+version: v1.13.3
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -43,3 +43,6 @@ patch:
         patched: '2017-10-26T22:36:25.692Z'
     - gulp-notify > node-notifier > cli-usage > marked:
         patched: '2017-10-26T22:36:25.692Z'
+  SNYK-JS-AXIOS-174505:
+    - browser-sync > localtunnel > axios:
+        patched: '2019-05-06T02:49:17.986Z'
