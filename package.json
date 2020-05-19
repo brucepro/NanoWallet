@@ -6,9 +6,9 @@
   "license": "MIT",
   "dependencies": {
     "angular": "^1.6.2",
-    "angular-animate": "1.6.2",
+    "angular-animate": "1.7.9",
     "angular-chart.js": "1.0.0",
-    "angular-mocks": "1.6.2",
+    "angular-mocks": "1.7.9",
     "angular-sanitize": "^1.6.2",
     "angular-translate": "2.18.2",
     "angular-ui-router": "^0.3.1",
